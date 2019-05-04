@@ -1,4 +1,5 @@
-yout: post
+---
+layyout: post
 title: Build Path and Class Path
 category: java
 tags: [java]
